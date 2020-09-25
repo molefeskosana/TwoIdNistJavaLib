@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>TwoIdNistJavaLib</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>com.ibm.etools.mft.java.builder.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>com.ibm.etools.mft.bar.ext.barbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>com.ibm.etools.mft.jcn.jcnbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>com.ibm.etools.mft.bar.ext.barnature</nature>
+		<nature>com.ibm.etools.mft.jcn.jcnnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Sources/nistfilesout/191029112320679-112332-RESPONSE.nist</name>
+			<type>1</type>
+			<location>C:/Users/molef/Desktop/TestToday/191029112320679-112332-RESPONSE.nist</location>
+		</link>
+		<link>
+			<name>Sources/nistfilesout/MultiSRE.nist</name>
+			<type>1</type>
+			<location>C:/Users/molef/Desktop/MultiSRE.nist</location>
+		</link>
+		<link>
+			<name>Sources/nistfilesout/TL190064001B_IMA_IMS.nist</name>
+			<type>1</type>
+			<location>C:/Users/molef/Documents/IBM material/ABIS NIST TEST/TL190064001B_IMA_IMS.nist</location>
+		</link>
+		<link>
+			<name>Sources/nistfilesout/newfile.nist</name>
+			<type>1</type>
+			<location>C:/Users/molef/IBM/IIBT10/workspace/TwoIdNistJavaLib/Sources/nistfilesout/newfile.nist</location>
+		</link>
+	</linkedResources>
+</projectDescription>
